@@ -24,11 +24,8 @@ Check out the live demo [here](https://trueaashi.github.io/Portfolio_Aashi/).
 - **Framework/Libraries:** [e.g., React, Vue.js, Bootstrap] for building a responsive and scalable website.
 - **Version Control:** Managed with Git and hosted on GitHub for collaborative development and version tracking.
 
-## Live Demo
-
-The site is Live at [Live]().
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
