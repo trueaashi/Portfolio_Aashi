@@ -6,7 +6,7 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://trueaashi.github.io/Portfolio_Aashi/).
 
 ## Features
 
