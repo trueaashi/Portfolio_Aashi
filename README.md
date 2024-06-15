@@ -21,7 +21,6 @@ Check out the live demo [here](https://trueaashi.github.io/Portfolio_Aashi/).
 
 - **HTML5 & CSS3:** For structuring and styling the website.
 - **JavaScript:** To add interactivity and dynamic content.
-- **Framework/Libraries:** [e.g., React, Vue.js, Bootstrap] for building a responsive and scalable website.
 - **Version Control:** Managed with Git and hosted on GitHub for collaborative development and version tracking.
 
 
