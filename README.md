@@ -26,5 +26,11 @@ Check out the live demo [here](https://trueaashi.github.io/Portfolio_Aashi/).
 
 ## Demo
 
+Here is the desktop demo:
+
 ![Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+
+Here is the mobile demo:
+
 ![Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
